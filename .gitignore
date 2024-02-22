@@ -1,0 +1,8 @@
+node_modules
+build
+user.json
+# .env
+.sequelizerc
+public
+images
+
